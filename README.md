@@ -1,9 +1,12 @@
 # AI Resume Analyzer
 
 ## Live Demo
-Try the AI Resume Analyzer : (https://ai-resume-analyzer-upyc5kd6fczzlthjdwxnbh.streamlit.app)
+[Try the AI Resume Analyzer](https://ai-resume-analyzer-upyc5kd6fczzlthjdwxnbh.streamlit.app)
 
 A web-based Resume Analyzer built using Python and Streamlit.
+
+## Project Screenshot
+![AI Resume Analyzer](AI-Resume-Analyzer-Screenshot.png)
 
 ## Project Overview
 
@@ -45,10 +48,10 @@ The AI Resume Analyzer allows users to upload a PDF resume and enter a job descr
 ## Project Structure
 
 ```text
-AI-Resume-Analyzer/
-│
+AI-Resume-Analyzer
 ├── app.py
 ├── resume_reader.py
 ├── requirements.txt
 ├── .gitignore
-└── README.md
+├── README.md
+└── AI-Resume-Analyzer-Screenshot.png
