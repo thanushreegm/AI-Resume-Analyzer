@@ -415,6 +415,9 @@ if st.button("Analyze Resume"):
             "Adaptability":
                 "Learn new tools and technologies regularly and practice adapting to changing requirements.",
 
+             "Deep Learning": 
+                "Learn Deep Learning fundamentals such as neural networks, CNNs, and model training.",
+
             "Research":
                 "Develop research skills by studying technical documentation, papers, and reliable online resources."
         }
